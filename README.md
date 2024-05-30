@@ -1,7 +1,8 @@
 ## Metin2 AFK Leveling is a script that keeps an eye on your Metin2 process count.
 
 #### If let's say you have two metin2 clients open, if one goes down it sends an alert SMS message to your phone!
-
+> [!IMPORTANT]
+> Are you tired of having your auto hunter ON and whenever you leave your PC, either going out or to go to sleep and the client crashes 10 min after? With this script, you get an alert as soon as it crashes!
 ##### Requirements:
 
 1. Install the **Push Bullet** APP on your phone.
