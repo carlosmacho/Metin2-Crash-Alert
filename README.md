@@ -12,3 +12,9 @@
    - [https://www.pushbullet.com/#settings/account](https://www.pushbullet.com/#settings/account:~:text=Upgrade%20to%20Pro-,Access%20Tokens,-Using%20an%20access)
 
 3. Replace **"YOUR_ACCESS_TOKEN"** on the script with your newly created access token.
+
+> [!WARNING]
+> Before starting the script, make sure you've had installed the necessary libraries
+> - pip install psutil 
+> - pip install pushbullet.py==0.9.1
+
