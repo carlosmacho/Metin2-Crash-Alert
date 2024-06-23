@@ -1,0 +1,2 @@
+psutil==5.9.8
+pushbullet.py==0.9.1
